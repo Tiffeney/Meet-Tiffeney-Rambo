@@ -1,19 +1,52 @@
-.nav.navbar-nav {
-	display: flex;
-	justify-content: center;
-    flex-wrap: wrap;
-}
-@media (min-width: 768px) {
-	.navbar-nav {
-		float: none;
-	}
+p {
+	font-family: 'Satisfy', cursive;
+	font-family: 'Great Vibes', cursive;
 }
 
-.btn btn-primary {
-    display: flex;
-	justify-content: center;
+.nav-item {
+	font-family: 'Rancho', cursive;
+	color: #A9A9A9;
+}
+.nav-link {
+	color: mediumaquamarine;
 }
 
-#pic {
-    text-align: center;
+
+
+.jumbotron {
+	/* background: #A9A9A9; */
+	background: mediumaquamarine;
+}
+
+h1 {
+	font-family: 'Playball', cursive;
+	color: white;
+	font-size: 60px;
+}
+h4 {
+	font-family: 'Rancho', cursive;
+	color: white
+}
+
+p {
+	font-family: 'Rancho', cursive;
+}
+
+h3 {
+	font-family: 'Rancho', cursive;
+	font-size: 40px;
+}
+
+.btn {
+	font-family: 'Rancho', cursive;
+	background: mediumaquamarine;
+}
+
+.card-group {
+	border-spacing: 10px;
+	
+}
+
+.card {
+
 }
